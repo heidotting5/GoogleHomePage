@@ -1,0 +1,217 @@
+
+.body{
+	padding-right: 75px;
+}
+
+
+
+
+/* Top Navbar CSS */
+
+.navbar-top {
+	height: 55px;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 45px;
+}
+
+
+.navbar-topleft {
+	float: left;
+}
+
+
+.navbar-topright {
+	float: right;
+	display: flex;
+	justify-content: space-between;
+	margin-right: -24px;
+}
+
+
+.topnav-links {
+	font-size: 14px;
+	margin-right: 16px;
+	font-family: arial,sans-serif;
+	color: rgba(0,0,0,0.87);
+	margin-top: 6px;
+	text-decoration: none;
+	opacity: .9;
+}
+
+
+.topnav-links:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+.sign-in {
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: rgba(72, 133, 237);
+	padding: 6.5px 15px;
+	margin-top: -1.5px;
+	border: none;
+	border-radius: 3px;
+}
+
+
+.sign-in:hover {
+	opacity: .8;
+	cursor: pointer;
+}
+
+
+.material-icons {
+	margin-right: 20px;
+	color: black;
+	margin-top: 3px;
+	height: 10px;
+	opacity: .55;
+}
+
+
+.material-icons:hover {
+	opacity: .8;
+	cursor: pointer;
+}
+
+
+
+
+/* Logo and Search Bar section CSS */
+
+.google-logo {
+	padding-top: 60px;
+	padding-left: 80px;
+}
+
+.google-logo img {
+	height: 230px;
+	display: block;
+	width: 18%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.search-bar {
+	display: block;
+	margin-left: 33.5%;
+	margin-right: auto;
+	width: 37%;
+	height: 50px;
+	border: 1px solid #dfe1e5;
+	border-radius: 50px;
+	margin-top: -25px;
+}
+
+.search-icon i {
+	color: gray;
+	margin-top: 12.5px;
+	margin-left: 16px;
+
+}
+
+.search-by-voice i {
+	float: right;
+	margin-top: -11px;
+}
+
+
+.search-lucky {
+	width: 16%;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+	padding-left: 85px;
+}
+
+.below-search-buttons {
+	color: #5F6368;
+	font-size: 14px;
+	background-color: #F2F2F2;
+	margin-top: -1.5px;
+	border: none;
+	border-radius: 5px;
+	font-family: arial,sans-serif;
+	padding: 10px 17px;
+}
+
+.below-search-buttons:hover {
+	border: 1px solid #dfe1e5;
+	cursor: pointer;
+}
+
+
+
+/* Bottom Navbar CSS */
+
+.navbar-bottom {
+	height: 50px;
+	background-color: #F2F2F2;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	border-top: 1px solid #dfe1e5; 
+
+}
+
+.bottomnav-links {
+	font-size: 14px;
+	margin-right:20px;
+	font-family: arial,sans-serif;
+	color: #5f6368;
+	text-decoration: none;
+	opacity: .9;
+}
+
+.bottomright {
+	float: right;
+	padding-right: 20px;
+	margin-top: -16px;
+}
+
+.bottomleft {
+	padding-top: 15px;
+	padding-left: 35px;
+}
+
+.bottomnav-links:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
