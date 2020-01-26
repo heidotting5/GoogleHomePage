@@ -1,0 +1,1 @@
+This is a practice project in which I recreated the Google Homepage
